@@ -1,0 +1,80 @@
+body {
+    background-color: #E7DFC6;
+    color: #000;
+}
+
+.header {
+    background-color: #9E3E33;
+    /* width: 100%;
+    height: 200px; */
+}
+
+footer {
+    background-color: #9E3E33;
+    width: 100%;
+}
+.header .nav {
+    font-weight: bolder;
+    font-size: 20px;
+}
+.header .nav-item:hover{
+    background-color: #822A20;
+}
+
+.h1 {
+    font-size: 40px;
+}
+
+.filler-row-100 {
+    min-height: 100px;
+    max-width: 100%;
+}
+.filler-row-150 {
+    min-height: 150px;
+    max-width: 100%;
+}
+.filler-row-50 {
+    min-height: 50px;
+    max-width: 100%;
+}
+.filler-row-25 {
+    min-height: 25px;
+    max-width: 100%;
+}
+.filler-row-10 {
+    min-height: 10px;
+    max-width: 100%;
+}
+.row {
+    max-width: 100% !important;
+}
+
+div .nav-div {
+    right: 19%;
+    top: 50%;
+}
+
+@media (max-width: 1824px){
+    div .nav-div {
+        right: 19%;
+        top: 30%;
+    }
+}
+@media (max-width: 1552px){
+    div .nav-div {
+        right: 19%;
+        top: 21%;
+    }
+}
+@media (max-width: 1400px){
+    div .nav-div {
+        right: 19%;
+        top: 14%;
+    }
+}
+@media (max-width: 1202px){
+    div .nav-div {
+        right: 19%;
+        top: 3%;
+    }
+}
