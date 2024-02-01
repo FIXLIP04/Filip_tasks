@@ -1,5 +1,5 @@
-<?php include 'header.php';
-$title = "Exercise 1: Getting Started with PHP - Filip"; ?>
+<?php $title = "Exercise 1: Getting Started with PHP - Filip";
+include 'header.php';?>
 <h3> 3.1 Write PHP code to output the following message:
     Hello world! My name is "David"
 </h3>
