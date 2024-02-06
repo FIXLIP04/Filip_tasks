@@ -44,6 +44,6 @@ echo $result;
 <br>
 
 <?php 
-//test
+echo $_SERVER['HTTP_USER_AGENT'];
 ?>
 <?php include "footer.php"; ?>
