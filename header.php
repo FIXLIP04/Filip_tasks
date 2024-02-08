@@ -45,7 +45,7 @@
                                     <li class="nav-item"><a href="ex2.php" class="nav-link text-black">Exercise 2</a></li>
                                     <li class="nav-item"><a href="ex3.php" class="nav-link text-black">Exercise 3</a></li>
                                     <li class="nav-item"><a href="ex4.php" class="nav-link text-black">Exercise 4</a></li>
-                                    <li class="nav-item"><a href="#" class="nav-link text-black">About</a></li>
+                                    <li class="nav-item"><a href="ex7.php" class="nav-link text-black">Exercise 7</a></li>
                                 </ul>
                             </nav>
                         </div>
