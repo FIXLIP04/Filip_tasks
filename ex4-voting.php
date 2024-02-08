@@ -1,5 +1,5 @@
 <?php $title = "Can you vote?"; 
-include "header.php";
+include 'header.php';
 
 $Name = $_POST["name"];
 $Age = $_POST["age"];

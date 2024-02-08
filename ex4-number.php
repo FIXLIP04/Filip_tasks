@@ -1,5 +1,5 @@
 <?php $title = "Number multiplication table"; 
-include "header.php";
+include 'header.php';
 
 $Number = $_POST["nbr"];
 

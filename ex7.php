@@ -39,4 +39,4 @@ include 'header.php'; ?>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
 </form>
 
-<?php include 'footer.php'; ?>
+<?php include "footer.php";; ?>

@@ -1,5 +1,5 @@
 <?php $title = "While loop"; 
-include "header.php";
+include 'header.php';
 
 $Number = $_POST["nbr1"];
 $i = 1;
